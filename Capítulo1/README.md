@@ -9,7 +9,7 @@ Al finalizar la práctica, serás capaz de:
 - Permitir la edición únicamente en las celdas designadas para entrada de datos.
 
 ## 🕒 Duración aproximada:
-- 15 minutos.
+- 25 minutos.
 
 ---
 

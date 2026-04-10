@@ -1,4 +1,4 @@
-# Práctica 1. Control de acceso y protección de datos en un informe financiero
+# Laboratorio 1. Control de acceso y protección de datos en un informe financiero
 
 ## 🎯 Objetivos:
 Al finalizar la práctica, serás capaz de:

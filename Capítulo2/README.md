@@ -1,4 +1,4 @@
-# Práctica 2. Sistema de registro de clientes con Macros
+# Laboratorio 2. Sistema de registro de clientes con Macros
 
 ## 🎯 Objetivos:
 Al finalizar la práctica, serás capaz de:

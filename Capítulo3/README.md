@@ -1,4 +1,4 @@
-# Modelo de datos con Power Pivot ()
+# Laboratorio 3: Modelo de datos con Power Pivot ()
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
@@ -91,7 +91,7 @@ Paso 3. Guarda los cambios realizados y cierra el archivo.
 ![img55](../images/img55.png)
 
 
-# Filtrado Interactivo de Ventas con Segmentación en Power Pivot 
+# Laboratorio 4: Filtrado Interactivo de Ventas con Segmentación en Power Pivot 
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
@@ -101,7 +101,7 @@ Al finalizar la práctica, serás capaz de:
 - Aplicar segmentaciones de datos para filtrar dinámicamente los resultados en la tabla dinámica, mejorando la interacción y el análisis visual.
 
 ## Duración aproximada:
-- 15 minutos.
+- 10 minutos.
 
 ## Instrucciones 
 
@@ -199,7 +199,7 @@ Paso 4: Guarda los cambios realizados y cierra el archivo.
 ![img73](../images/img73.png)
 
 
-# Evaluación de Ventas con KPIs en Power Pivot
+# Laboratorio 5: Evaluación de Ventas con KPIs en Power Pivot
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
@@ -213,7 +213,7 @@ Al finalizar la práctica, serás capaz de:
 -Analizar gráficamente los resultados mediante una tabla dinámica.
 
 ## Duración aproximada:
-- 15 minutos.
+- 10 minutos.
 
 ## Escenario:
 Trabajas en el área de inteligencia comercial de una empresa dedicada a la distribución de tecnología, mobiliario y telecomunicaciones a nivel nacional. Cada venta tiene un valor considerable, ya que se trata de productos empresariales.

@@ -13,7 +13,7 @@ Al finalizar la práctica, serás capaz de:
 
 ---
 
-**[Lista general 🗂️](https://netec-mx.github.io/EXL_ADV/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo2/)**
+**[Lista general 🗂️](https://netec-mx.github.io/EXL_ADV_COP/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV_COP/Cap%C3%ADtulo2/)**
 
 ---
 
@@ -94,6 +94,6 @@ Paso 4. Abre el archivo, ingresa la contraseña y coloca un comentario en la col
 
 ---
 
-**[Lista general 🗂️](https://netec-mx.github.io/EXL_ADV/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo2/)**
+**[Lista general 🗂️](https://netec-mx.github.io/EXL_ADV_COP/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV_COP/Cap%C3%ADtulo2/)**
 
 ---

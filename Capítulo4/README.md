@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 # Unificación de nombres en una celda utilizando Power Query.
 
----
+
 
 **[⬅️ Atrás](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo3/)** | **[Lista General](https://netec-mx.github.io/EXL_ADV/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo5/)**
 
----
+
 
 =======
 # Ejercicio 1. Actualización de direcciones de correo electrónico con Relleno Rápido.
@@ -16,10 +16,6 @@ Seguir las instrucciones del instructor para la resolución.
 
 # Ejercicio 2. Optimización de Datos con Flash Fill en Excel
 
-<<<<<<< HEAD
-## Escenario:
-Tienes una base de datos de clientes donde los campos Nombre, Apellido Paterno y Apellido Materno están separados en distintas columnas. Sin embargo, para algunos informes, necesitas consolidar el nombre completo de cada cliente en una sola celda. En lugar de hacerlo manualmente, utilizarás Power Query para automatizar este proceso, combinando estos campos en una nueva columna llamada Nombre Completo.
-=======
 ## Descargar el archivo llamado:  [Optimización de Datos con Flash Fill](<Ejercicio_optimización de Datos.xlsx>)
 Seguir las instrucciones del instructor para la resolución.
 
@@ -28,12 +24,12 @@ Seguir las instrucciones del instructor para la resolución.
 
 ## Descargar el archivo llamado:  [Unificación de nombres](Unificación_de_nombres.xlsx)
 Seguir las instrucciones del instructor para la resolución.
->>>>>>> a33f170 (Mis cambios en main)
+
 
 # Ejercicio 4. Inventario creciente.
 ## Descargar el archivo llamado: [relleno_y_series](<Relleno y series Ejercicio 4 a 6 (1).xlsx>)
 
-<<<<<<< HEAD
+
 ## Instrucciones 
 
 ### Tarea 1. Cargar los datos
@@ -50,26 +46,16 @@ Paso 1. Ir a la hoja inventario y seguir las instrucciones del instructor para l
 # Ejercicio 5. Crecimiento de visitas a un sitio web
 ## Descargar el archivo llamado: [relleno_y_series](<Relleno y series Ejercicio 4 a 6 (1).xlsx>)
 
-Paso 1. Ir a la hoja Proyecciones y seguir las instrucciones del instructor para la resolución.
 
 # Ejercicio 6. Calendario de reuniones trimestrales
 
 ## Descargar el archivo llamado: [relleno_y_series](<Relleno y series Ejercicio 4 a 6 (1).xlsx>)
->>>>>>> a33f170 (Mis cambios en main)
 
-Paso 1. Ir a la hoja Reuniones trimestrales.
-Paso 2. Seguir las instrucciones del instructor para la resolución.
-
-<<<<<<< HEAD
-Paso 3. Selecciona el archivo Registro Clientes, el cual contiene los nombres, apellidos paternos y maternos.
-
-Paso 4. En el panel del Navegador, selecciona la tabla que contiene estos datos y haz clic en Transformar datos para abrir el editor de Power Query.
-=======
 
 # Ejercicio 7. Proyección de crecimiento geométrico 
 ## Descargar el archivo llamado: [Previsiones_ventas](Previsiones_Ventas-ejercicio.xlsx)
 Seguir las instrucciones del instructor para la resolución.
->>>>>>> a33f170 (Mis cambios en main)
+
 
 # Ejercicio 8. Validación de datos con mensaje de error personalizado
 ## Descargar el archivo llamado: [Inscripción_escuela_esqui](Inscripcion_Escuela_Esqui.xlsx)
@@ -79,13 +65,10 @@ Seguir las instrucciones del instructor para la resolución.
 ## Descargar el archivo llamado: [Asignación de empleados](Asignación_empleados.xlsx)
 Seguir las instrucciones del instructor para la resolución.
 
-<<<<<<< HEAD
-Paso 1. En el editor de Power Query, haz clic en el cuadro izquierdo que aparece a lado de la Column1 y selecciona la opción de Usar la primera fila como encabezado.
-=======
 # Ejercicio 10. Limpia tu base de datos eliminando duplicados 
 ## Descargar el archivo llamado: [Clientes_duplicados](<Clientes_Duplicados_Ejercicio (2).xlsx>)
 Seguir las instrucciones del instructor para la resolución
->>>>>>> a33f170 (Mis cambios en main)
+
 
 # Ejercicio 11. Subtotales en Excel: Ventas por Vendedor
 ## Descargar el archivo llamado: [Ventas_subtotales](Ventas_Subtotales_Ejercicio.xlsx)
@@ -100,7 +83,6 @@ Seguir las instrucciones del instructor para la resolución
 Paso 1. Ir a la hoja Taquillas
 Paso 2. Seguir las instrucciones del instructor para la resolución.
 
-<<<<<<< HEAD
 
 Paso 3.  Da clic derecho y selecciona Combinar columnas.
 
@@ -140,7 +122,7 @@ Paso 9. Guarda los cambios y cierra el archivo.
 ## Descargar el archivo llamado: [Taquillas_fidelización](Taquillas_Fidelización.xlsx)
 Paso 1. Ir a la hoja Fidelización
 Paso 2. Seguir las instrucciones del instructor para la resolución.
->>>>>>> a33f170 (Mis cambios en main)
+
 
 ---
 

@@ -301,6 +301,7 @@ Paso 3. Guardamos los cambios y cerramos el libro.
 ### Resultado esperado
 ![img87](../images/img87.png)
 
+# Laboratorio 6: Unificación de nombres en una celda utilizando Power Query.
 
 # Laboratorio 7: Segmentación Inteligente de Clientes con Power Query
 

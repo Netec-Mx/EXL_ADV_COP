@@ -11,11 +11,6 @@ Al finalizar la práctica, serás capaz de:
 ## 🕒 Duración aproximada:
 - 25 minutos.
 
----
-
-**[Lista general 🗂️](https://netec-mx.github.io/EXL_ADV_COP/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV_COP/Cap%C3%ADtulo2/)**
-
----
 
 ## Instrucciones:
 ### Tarea 1. Preparar las celdas editables (comentarios).
@@ -92,8 +87,4 @@ Paso 4. Abre el archivo, ingresa la contraseña y coloca un comentario en la col
 
 ![img10](../images/img10.png)
 
----
 
-**[Lista general 🗂️](https://netec-mx.github.io/EXL_ADV_COP/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV_COP/Cap%C3%ADtulo2/)**
-
----

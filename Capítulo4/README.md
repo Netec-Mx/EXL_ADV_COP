@@ -1,13 +1,7 @@
 
-# Unificación de nombres en una celda utilizando Power Query.
-
-
-
 **[⬅️ Atrás](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo3/)** | **[Lista General](https://netec-mx.github.io/EXL_ADV/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo5/)**
 
 
-
-=======
 # Ejercicio 1. Actualización de direcciones de correo electrónico con Relleno Rápido.
 >>>>>>> a33f170 (Mis cambios en main)
 

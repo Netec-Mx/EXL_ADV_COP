@@ -3,7 +3,6 @@
 
 
 # Ejercicio 1. Actualización de direcciones de correo electrónico con Relleno Rápido.
->>>>>>> a33f170 (Mis cambios en main)
 
 ## Descargar el archivo llamado: [Ejercicio_correo_electrónico](Ejercicio_correo_electrónico.xlsx) 
 Seguir las instrucciones del instructor para la resolución.
@@ -21,8 +20,9 @@ Seguir las instrucciones del instructor para la resolución.
 
 
 # Ejercicio 4. Inventario creciente.
-## Descargar el archivo llamado: [relleno_y_series](<Relleno y series Ejercicio 4 a 6 (1).xlsx>)
 
+## Descargar el archivo llamado: [relleno_y_series](<Relleno y series Ejercicio 4 a 6 (1).xlsx>)
+Seguir las instrucciones del instructor para la resolución.
 
 ## Instrucciones 
 
@@ -38,13 +38,14 @@ Paso 2.  Dirígete a la pestaña Datos > Obtener datos > Desde archivo > De text
 Paso 1. Ir a la hoja inventario y seguir las instrucciones del instructor para la resolución.
 
 # Ejercicio 5. Crecimiento de visitas a un sitio web
-## Descargar el archivo llamado: [relleno_y_series](<Relleno y series Ejercicio 4 a 6 (1).xlsx>)
 
+## Descargar el archivo llamado: [relleno_y_series](<Relleno y series Ejercicio 4 a 6 (1).xlsx>)
+Seguir las instrucciones del instructor para la resolución.
 
 # Ejercicio 6. Calendario de reuniones trimestrales
 
 ## Descargar el archivo llamado: [relleno_y_series](<Relleno y series Ejercicio 4 a 6 (1).xlsx>)
-
+Seguir las instrucciones del instructor para la resolución.
 
 # Ejercicio 7. Proyección de crecimiento geométrico 
 ## Descargar el archivo llamado: [Previsiones_ventas](Previsiones_Ventas-ejercicio.xlsx)
@@ -74,44 +75,8 @@ Seguir las instrucciones del instructor para la resolución
 
 # Ejercicio 13. Generación de códigos aleatorios para taquillas 
 ## Descargar el archivo llamado: [Taquillas_fidelización](Taquillas_Fidelización.xlsx)
-Paso 1. Ir a la hoja Taquillas
-Paso 2. Seguir las instrucciones del instructor para la resolución.
+Seguir las instrucciones del instructor para la resolución.
 
-
-Paso 3.  Da clic derecho y selecciona Combinar columnas.
-
-![img92](../images/img92.png)
-
-Paso 4. Elige como separador la opción de Espacio y, en Nuevo nombre de columna, escribe: *Nombre completo*
-
-![img93](../images/img93.png)
-
-Paso 5. Selecciona la columa ID, da clic derecho y remuévela.
-
-![img94](../images/img94.png)
-
-Paso 6. Selecciona la columna Nombre completo y da clic en Cerrar y cargar en.
-
-![img95](../images/img95.png)
-
-Paso 7. Deja marcado la opción Tabla; adicionalemente, marca la opción de Hoja de cálculo existente, selecciona la celda E1 y da clic en Aceptar.
-
-![img96](../images/img96.png)
-
-Paso 8. Como resultado, obtendrás la nueva columna de nombre completo, únicamente dale el mismo formato que la tabla original.
-
-![img97](../images/img97.png)
-
-Paso 9. Guarda los cambios y cierra el archivo.
-
-
-### Resultado esperado
-
-![img98](../images/img98.png)
-
-
-
-=======
 # Ejercicio 14. Tarjetas de regalo aleatorias
 ## Descargar el archivo llamado: [Taquillas_fidelización](Taquillas_Fidelización.xlsx)
 Paso 1. Ir a la hoja Fidelización

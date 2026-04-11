@@ -24,19 +24,6 @@ Seguir las instrucciones del instructor para la resolución.
 ## Descargar el archivo llamado: [relleno_y_series](<Relleno y series Ejercicio 4 a 6 (1).xlsx>)
 Seguir las instrucciones del instructor para la resolución.
 
-## Instrucciones 
-
-### Tarea 1. Cargar los datos
-
-Paso 1. Descarga y guarda el siguiente archivo llamado:  [Registro clientes](<Registros clientes (módulo 4).csv>)
-el cual está en formato csv.
-
-Podrás observar las columnas separadas de Nombre, Apellido Paterno y Apellido Materno.
-
-Paso 2.  Dirígete a la pestaña Datos > Obtener datos > Desde archivo > De texto/CSV.
-=======
-Paso 1. Ir a la hoja inventario y seguir las instrucciones del instructor para la resolución.
-
 # Ejercicio 5. Crecimiento de visitas a un sitio web
 
 ## Descargar el archivo llamado: [relleno_y_series](<Relleno y series Ejercicio 4 a 6 (1).xlsx>)

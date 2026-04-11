@@ -10,12 +10,6 @@ Al finalizar la práctica, serás capaz de:
 ## 🕒 Duración aproximada:
 - 25 minutos.
 
----
-
-**[⬅️ Atrás](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo1/)** | **[Lista General](https://netec-mx.github.io/EXL_ADV/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo3/)**
-
----
-
 ## Instrucciones:
 
 ### Tarea 1. Realizar Macro para registrar a clientes.
@@ -210,8 +204,4 @@ El resultado de está práctica es tener cinco macros que funcionan para registr
 
 ![img45](../images/img45.png)
 
----
 
-**[⬅️ Atrás](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo1/)** | **[Lista General](https://netec-mx.github.io/EXL_ADV/)** | **[Siguiente ➡️](https://netec-mx.github.io/EXL_ADV/Cap%C3%ADtulo3/)**
-
----
